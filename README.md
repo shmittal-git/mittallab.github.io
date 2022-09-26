@@ -1,2 +1,2 @@
-# mittallab.github.io
-Mittal Lab Website
+# shachimittal.github.io
+Mittal Research Lab website 
